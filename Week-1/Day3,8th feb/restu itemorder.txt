@@ -1,0 +1,9 @@
+s1:start
+s2:mention the menus are availible
+s3:collect order from customer by through employee
+s4:check if item is avalibile are not
+s5:if order is avalible 
+    serve the order
+    else
+    prepare it
+s6:stop

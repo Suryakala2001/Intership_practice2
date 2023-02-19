@@ -1,0 +1,9 @@
+s1:start
+s2:inform the avaliable item  from menu
+s3:receive the order
+s4:check it's available from the kitchen
+s5:then if it is avaliable take the order
+s6:otherwise customer need to change the item
+s7:serve the item
+s8:give the bill
+s9:stop

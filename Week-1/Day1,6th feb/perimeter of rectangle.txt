@@ -1,0 +1,7 @@
+perimeter of rectangle
+step1:start
+step2:length,breadth,perimeter;
+step3:read length,breadth;
+step4:perimeter=length+breadth+length+breadth;
+step5:display perimeter
+step6:stop

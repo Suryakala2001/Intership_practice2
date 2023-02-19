@@ -1,0 +1,10 @@
+step1:start
+stap2:declare i,n 
+step3:read i
+step4:intialize i value i=1
+step5:check i value with n
+       if(i=1,i%2==0)then 
+            goto step6
+step6:display
+step7:increment i goto step5
+step8:stop

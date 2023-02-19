@@ -1,0 +1,11 @@
+s1:start
+s2:go to library on return date
+s3:submit the book
+s4:put a sign on library book
+s5:librarian check the book 
+s6:check if book is damaged or not
+s7:book is damaged
+    pay the fine
+    else
+    not requried
+s8:stop

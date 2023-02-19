@@ -1,0 +1,11 @@
+s1:open welcome screen
+s2:fill username and password
+s3:create library management system 
+s4:display the home page
+s5:Initialize homepage with submenus
+s6:select one of the menus
+s7:if borrowing book
+    enter cardno,firstname,lastname,address,phoneno
+s8:if return the book
+    enter bookid,cardno,date out,due date,date in
+s9:stop

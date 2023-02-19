@@ -1,0 +1,8 @@
+step1:start
+step2:declare t
+step3:read t
+step4:if ch=='t'
+       display t
+       else
+       display not t
+step5:stop

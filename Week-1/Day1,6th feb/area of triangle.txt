@@ -1,0 +1,7 @@
+find area of triangle
+step1:start
+step2:height,base,area;
+step3:height base
+step4:area=height*base/2;
+step5:display area;
+step6:stop

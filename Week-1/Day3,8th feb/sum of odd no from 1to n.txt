@@ -1,0 +1,17 @@
+step1:start
+step2:declare i,n,sum;
+step3:read i
+step4:intialize i value i=1,sum=0
+step5:check i value with n 
+      if(i<=n)
+       go to step6
+       else
+      go to step9
+step6:check i is odd number or not
+      if i%2!=0
+       go to step7
+       else
+       go to step8
+step7:sum=sum+i
+step8:increment i then go to step6
+step10:stop

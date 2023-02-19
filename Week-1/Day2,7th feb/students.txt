@@ -1,0 +1,21 @@
+step1:start
+step2:declare 5 subjects,total,avr,per,grade;
+step3:read math,phy,che,eng,kan,sum,avr,per,grade
+step4:read total
+       total=math+phy+che+eng+kan
+step5:find avg
+      avg=(math+phy+che+eng+kan/5.0);
+step6:find per
+      per=(total/500.0)*100;
+step7:find grade
+      check if if(per>=90 and per<=100)
+              display Grade A;
+      else if(per>=80  and per<=90)
+              display Grade B;
+      else if(per>=70  and per<=80)
+             display Grade C;
+      else if(per>=60  and per<=70)
+             display Grade D;
+      else
+             display fail;
+Step8: Stop

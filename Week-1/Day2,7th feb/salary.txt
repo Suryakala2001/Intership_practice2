@@ -1,0 +1,18 @@
+step1:start
+step2:declare  basic,gross,da,hra
+step3:input sal
+step4:read basic,gross,da,hra
+step5:find da and hra
+       if(basic<=10000)then
+         da=basic*0.8;
+         hra=basic*0.2;
+       else if(basic<=20000)then
+          da=basic*0.9;
+          hra=basic*0.25;
+       else
+          da=basic*0.95;
+          hra=basic*0.3;
+step6:find gross
+       gross=basic+hra+da
+step7:display gross
+step8:stop

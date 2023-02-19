@@ -1,0 +1,10 @@
+step1:start
+step2:declare n1,n2,n3;
+step3:read n1,n2,n3;
+step4:if (n1>n2) and(n1>n3)
+       display n1;
+      else if(n2>n1) and (n2>n3)
+      dislay n2;
+       else
+      display n3;
+step5:stop

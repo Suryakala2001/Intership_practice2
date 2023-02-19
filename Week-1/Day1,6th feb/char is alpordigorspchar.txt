@@ -1,0 +1,10 @@
+step1:start
+step2:declare character
+step3:read character
+step4:if (ch>='a' && ch<'z')
+       display alphabet
+      else if(ch>='0' && ch<='9')
+        display digit
+      else 
+        display special character
+step5:stop

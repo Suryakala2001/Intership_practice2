@@ -1,0 +1,7 @@
+s1:start
+s2:declare menu and arrange products required for preparing the food
+s3:inform the availability of dishes to employee
+s4:recieve the order from employee
+s5:prepaing food following the menu
+s6:serving the food 
+s7:stop

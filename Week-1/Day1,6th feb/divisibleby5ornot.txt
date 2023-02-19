@@ -1,0 +1,9 @@
+step1:read
+step2:declear n
+step3:read n
+step4:check if n is divisible by 5
+             if n%5==0
+             display n is divisible
+              else
+             display n is not divisible
+step5:stop

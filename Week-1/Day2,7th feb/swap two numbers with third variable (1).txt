@@ -1,0 +1,10 @@
+find swap two numbers with third variable
+step1:start
+step2:declare t,x,y
+step3:enter x,y
+step4:print x,y
+step5:t=x;
+step6:x=y;
+step7:y=t;
+step8:print x,y
+step9:end

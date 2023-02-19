@@ -1,0 +1,17 @@
+step1:start
+step2:declare i,n
+step3:read n
+step4:intialize i value i=1
+step5:check i value with n
+      if i<=n
+      goto step6
+      else
+      goto step8
+step6:check i is odd number or not
+       if(i%2!=0) 
+       go to step6
+       else
+       go to step8
+step7:display i
+step8:increment i go to step5
+step9:stop

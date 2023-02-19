@@ -1,0 +1,9 @@
+find swap two variable without third variables
+step1:start
+step2:enter x,y
+step3:print x,y
+step4:x=x+y
+step5:y=x-y
+step6:x=x-y
+step7:print x,y
+step8:end

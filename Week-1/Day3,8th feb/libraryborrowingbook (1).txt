@@ -1,0 +1,13 @@
+s1:start
+s2:goto library 
+s3:submit library card to librarian
+s4:if library card is not avaliable
+s5:not enter to borrowing book
+s6:if library card is avaliable
+s7:collect the book from library
+s6:register all details after borrowing book
+s7:check if the details is correct or not
+    book is provided
+    else
+    book is not provided
+s8:stop

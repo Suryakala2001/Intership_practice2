@@ -1,0 +1,18 @@
+step1:start
+step2:declare i,n,sum;
+step3:read n
+step4:initialize i value i=1,sum=0
+step5:check i value with n 
+        if((i<=n) 
+        go to step6
+        else
+        go to step7
+step6:check i is divisible by 2 or not
+       if i%2==0
+        goto step5
+        else
+        goto step
+step7:sum=sum+i
+step8:increment i then go to step5
+step9:display sum value
+step10:stop
