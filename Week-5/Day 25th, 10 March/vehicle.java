@@ -1,0 +1,1 @@
+//Create a class called Vehicle with attributes make and model. Create two subclasses, Car and Truck, that both inherit from Vehicle. Add an attribute num_doors to Car and an attribute payload_capacity to Truck. Create a method in Car called rev_engine() that prints out "Vroom!". Create a method in Truck called load_payload() that adds weight to the payload capacity.
